@@ -13,7 +13,7 @@ This is a Testimonial React component that allows you to display customer testim
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/courseverse.git`
-2. Navigate to the project directory: `cd courseverse`
+2. Navigate to the project directory: `cd testimonial`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
